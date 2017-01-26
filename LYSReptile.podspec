@@ -13,11 +13,12 @@ Pod::Spec.new do |s|
     :tag => "#{s.version}"
   }
   s.platform = :ios, '7.0'
-#   s.source_files = 'Pod/Classes/**/*'
+
   s.source_files = 'LYSReptile/**/*'
 
   s.requires_arc = true
   
-  
+  pod 'BmobSDK', '~> 2.0.1'
+  pod 'FMDBHelper', '~> 1.0.1'
 
 end

@@ -1,0 +1,26 @@
+PODS:
+  - BmobSDK (2.0.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - FMDBHelper (1.0.1):
+    - FMDB (= 2.6.2)
+  - Masonry (1.0.2)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - BmobSDK (~> 2.0.1)
+  - FMDBHelper (~> 1.0.1)
+  - Masonry (~> 1.0.1)
+  - SVProgressHUD (~> 2.1.2)
+
+SPEC CHECKSUMS:
+  BmobSDK: 315013af15af31697a3b92cad2c74effed849b85
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  FMDBHelper: 5d03f3f4c25a0be4c693d73c131884577b612ff0
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 326fdd88e5bc1dc5b9c1a61150163725539f23c4
+
+COCOAPODS: 1.1.1
